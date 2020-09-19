@@ -21,7 +21,7 @@ namespace Hello_World_V_2._0
         {
             helloButton2.Text = "And then click me!!!";
         }
-
+        //Editing text for thrid button
         private void button2_Click(object sender, EventArgs e)
         {
             helloButton3.Text = "Then finally click me!!!";
